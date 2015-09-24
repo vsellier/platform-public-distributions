@@ -814,11 +814,6 @@
       <groupId>org.gatein.portal</groupId>
       <artifactId>exo.portal.component.web.forgetPassword</artifactId>
     </dependency>
-    <dependency>
-      <groupId>org.exoplatform.platform</groupId>
-      <artifactId>platform-component-forget-password</artifactId>
-    </dependency>
-
 
     <!-- org.gatein.security.oauth.webapi.OAuthDelegateFilter used but not declared in GateIn ? -->
     <dependency>
